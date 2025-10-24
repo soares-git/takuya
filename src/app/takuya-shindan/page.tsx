@@ -181,7 +181,7 @@ export default function ChatLP() {
 
             <ChatMessage type="operator" delay={0.8}>
               <p className="text-gray-800">
-                守りと攻めのバランスを整える"ハイブリッド戦略"を学ぶことで、
+                守りと攻めのバランスを整える&quot;ハイブリッド戦略&quot;を学ぶことで、
                 同じ元手でも、10年後の結果を大きく変えることができます。
               </p>
             </ChatMessage>
@@ -214,7 +214,7 @@ export default function ChatLP() {
                 href="https://utage-system.com/line/open/3mD1cVatRxfv"
                 className="block w-full bg-green-500 hover:bg-green-600 text-white font-bold text-3xl md:text-4xl py-9 md:py-10 px-10 md:px-12 rounded-3xl text-center transition-all shadow-2xl"
               >
-                <span className="block">"ハイブリッド戦略"を</span>
+                <span className="block">&quot;ハイブリッド戦略&quot;を</span>
                 <span className="block">LINEで確認する▶</span>
               </a>
             </motion.div>
